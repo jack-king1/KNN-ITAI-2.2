@@ -1,0 +1,11 @@
+﻿  TrainAndTest.c
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(83): warning C4101: 'distcount': unreferenced local variable
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(82): warning C4101: 'charAsInt': unreferenced local variable
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(81): warning C4101: 'currentLabel': unreferenced local variable
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(162): warning C4101: 'a': unreferenced local variable
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(169): warning C4101: 'sort': unreferenced local variable
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(170): warning C4101: 'labelsort': unreferenced local variable
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(166): warning C4101: 'example': unreferenced local variable
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(161): warning C4101: 'j': unreferenced local variable
+h:\university\semester 2\intro to ai\2.2\assignment2.2-knn02\assignment2.2-02.c\trainandtest.c(160): warning C4101: 'i': unreferenced local variable
+  Assignment2.2-02.c.vcxproj -> H:\University\Semester 2\Intro To AI\2.2\Assignment2.2-knn02\Assignment2.2-02.c\Debug\Assignment2.2-02.c.exe
